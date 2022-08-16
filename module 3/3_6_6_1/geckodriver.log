@@ -1,0 +1,11 @@
+1660379496644	geckodriver	INFO	Listening on 127.0.0.1:53127
+1660379499686	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53128" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Temp\\rust_mozprofiletefnSd"
+1660379501305	Marionette	INFO	Marionette enabled
+1660379501316	Marionette	INFO	Listening on port 53145
+WebDriver BiDi listening on ws://localhost:53128
+Read port: 53145
+1660379501545	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Temp\\rust_mozprofiletefnSd\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53128/devtools/browser/3a95641a-f843-4ffe-b294-cfaed6d0c4d2
+JavaScript error: http://selenium1py.pythonanywhere.com/ru/, line 374: ReferenceError: oscar is not defined
+1660379507519	Marionette	INFO	Stopped listening on port 53145
